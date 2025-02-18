@@ -23,21 +23,18 @@ ZZeinder is a powerful tool for discovering and downloading JavaScript files fro
    git clone https://github.com/yourusername/ZZeinder.git
    cd ZZeinder  
    pip install -r requirements.txt
+   ```
 
    Usage 🚀
    Basic Scan
-   bash
-   
-   
+      
    python3 zzeinder.py -d example.com -o results.txt
    
    Brute-Force Mode
-   bash
    
    python3 zZeinder.py -d example.com -o results.txt --brute -w wordlist.txt
    
    Advanced Options
-   bash
    
    python3 zzeinder.py -d example.com -o results.txt -c 50 --brute -w wordlist.txt
 
@@ -75,4 +72,4 @@ ZZeinder is a powerful tool for discovering and downloading JavaScript files fro
       4. Push to the branch (git push origin feature/YourFeature).
    
       5. Open a pull request.
-   ```
+   
