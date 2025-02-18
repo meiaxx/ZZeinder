@@ -39,12 +39,14 @@ ZZeinder is a powerful tool for discovering and downloading JavaScript files fro
    python3 zzeinder.py -d example.com -o results.txt -c 50 --brute -w wordlist.txt
 
 ## Options 📋
+```bash
    Argument	Description	Default
    -d, --domain	Target domain (e.g., example.com)	Required
    -o, --output	Output file for results	Required
    -c, --concurrency	Concurrent connections (1-500)	20
    -w, --wordlist	Wordlist for brute-force	None
    --brute	Enable brute-force mode	False
+```
 
 ## Examples 🧪
    Example 1: Basic Scan
