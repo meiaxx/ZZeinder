@@ -1,6 +1,6 @@
 # 🕵️ ZZeinder - JavaScript File Hunter
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ZZeinder is a powerful tool for discovering and downloading JavaScript files from websites. It combines web crawling and brute-forcing techniques to find hidden JS files, making it ideal for security researchers and web developers.
