@@ -25,7 +25,7 @@ ZZeinder is a powerful tool for discovering and downloading JavaScript files fro
    pip install -r requirements.txt
    ```
 
-   Usage 🚀
+## Usage 🚀
    Basic Scan
       
    python3 zzeinder.py -d example.com -o results.txt
@@ -38,7 +38,7 @@ ZZeinder is a powerful tool for discovering and downloading JavaScript files fro
    
    python3 zzeinder.py -d example.com -o results.txt -c 50 --brute -w wordlist.txt
 
-   Options 📋
+## Options 📋
    Argument	Description	Default
    -d, --domain	Target domain (e.g., example.com)	Required
    -o, --output	Output file for results	Required
@@ -46,7 +46,7 @@ ZZeinder is a powerful tool for discovering and downloading JavaScript files fro
    -w, --wordlist	Wordlist for brute-force	None
    --brute	Enable brute-force mode	False
 
-   Examples 🧪
+## Examples 🧪
    Example 1: Basic Scan
    bash
    Copy
@@ -59,7 +59,7 @@ ZZeinder is a powerful tool for discovering and downloading JavaScript files fro
    
    python3 zzeinder.py -d example.com -o js_files.txt --brute -w custom_wordlist.txt
    
-   Contributing 🤝
+## Contributing 🤝
    
    Contributions are welcome! Please follow these steps:
    
